@@ -1,6 +1,6 @@
-The privacy focused, no account required Swiss Army knife podcasts app.
+Moon FM is an easy to use podcast player for podcast lovers,offering a modern,fully featured audio podcast player in a simple ,intuitive interface.
 
-Crafted with love - extremely fast, smooth, and easy to use
+
 
 Enjoy Key Features :
 
@@ -8,24 +8,23 @@ Enjoy Key Features :
 - Streamlined and minimalist design that’s simple to use
 - High quality audio 
 - A completely ad-free experience
-- Free downloads so you can listen offline or stream online
 - Subscribe to any podcast feed using its URL
 - Full support for password-protected podcasts
 - Self-hosted sync service
 - Dark mode support
-- Siri Shortcuts
-- CarPlay support
-- Custom but familiar iPad interface, supporting Slide Over, Split View
 - Jump on board without any hassle with OPML import. Export your collection at any time
 - Check out what everyone is listening to with Top Charts
 - Browse your listening history to see all your recent listens
-- Listen well, then sleep easy with the handy sleep timer 
 - Variable speed
 - Fast forward
 - Fast rewind
 
 
+Crafted with love - for podcast lover by podcast lover.
+
 Have feedback for us? We read every email and you can reach us anytime at 「 hi@moon.fm 」
+
+Enjoy the pleasure of discovery
 
 
 *****「 Featured by Price Tag  」*****
