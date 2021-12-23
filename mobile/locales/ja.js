@@ -8,7 +8,7 @@ export default {
     Subscriptions: 'チャンネル登録',
     Downloads: 'オフライン動画',
     Favorites: 'お気に入り',
-    Live: 'Live',
+    Live: 'ライブ',
   },
   ScreenTitle: {
     Subscriptions: '登録チャンネル',
@@ -16,7 +16,7 @@ export default {
     Favorites: 'お気に入り',
     History: '履歴',
     Home: 'ホーム',
-    'Recent App Clips': 'Recent 「 App Clips 」',
+    'Recent App Clips': '最近の「App Clips」一覧',
   },
   PopupMenu: {
     'Play Now': '今すぐ再生する',
