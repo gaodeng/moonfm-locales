@@ -1,0 +1,24 @@
+{
+  "name": "moonfm-locales",
+  "version": "1.0.0",
+  "description": "moon fm podcast app locales",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gen": "node --experimental-json-modules ./scripts/gen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaodeng/moonfm-locales.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaodeng/moonfm-locales/issues"
+  },
+  "homepage": "https://github.com/gaodeng/moonfm-locales#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
