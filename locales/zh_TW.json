@@ -294,5 +294,6 @@
   "The database is being upgraded, please wait until the database upgrade is completed": "The database is being upgraded, please wait until the database upgrade is completed",
   "Learn More": "Learn More",
   "Add favorite success": "已添加到收藏",
-  "Add favorite failed": "添加到收藏失敗"
+  "Add favorite failed": "添加到收藏失敗",
+  "How to setup Sync Service": "How to setup Sync Service"
 }

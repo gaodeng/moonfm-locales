@@ -294,5 +294,6 @@
   "The database is being upgraded, please wait until the database upgrade is completed": "The database is being upgraded, please wait until the database upgrade is completed",
   "Learn More": "Learn More",
   "Add favorite success": "Add favorite success",
-  "Add favorite failed": "Add favorite failed"
+  "Add favorite failed": "Add favorite failed",
+  "How to setup Sync Service": "How to setup Sync Service"
 }
