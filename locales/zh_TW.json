@@ -133,7 +133,7 @@
   "No Media Msg": "可以試試在「 發現 」頁面找一找你感興趣的節目訂閱或者播放",
   "Total n Episode": {
     "one": "一個節目",
-    "other": "共 {count}  個節目",
+    "other": "共 {{count}}  個節目",
     "zero": "沒有節目"
   },
   "Bulk adding to the playlist": "批次添加到播放清單",
@@ -163,8 +163,8 @@
     "zero": "No selected item"
   },
   "Removed Msg": {
-    "one": "從播放清單中移除「{count}」個節目",
-    "other": "從播放清單中移除「{count}」個節目",
+    "one": "從播放清單中移除「{{count}}」個節目",
+    "other": "從播放清單中移除「{{count}}」個節目",
     "zero": "沒有節目需要移除"
   },
   "Playback Rate": "播放速度",
@@ -233,7 +233,7 @@
   "Group Management": "Group Management",
   "n Group": {
     "one": "One Group",
-    "other": "{count} Groups",
+    "other": "{{count}} Groups",
     "zero": "No Group"
   },
   "Save": "Save",
