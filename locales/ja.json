@@ -213,7 +213,7 @@
   "External storage permission is necessary to save images to your device": "External storage permission is necessary to save images to your device",
   "External storage permission Setting Tips": "Open Settings > Permissions and allow access to Storage",
   "Need help": "Need help ?",
-  "Continue": "Continue",
+  "Continue": "次へ",
   "Not now": "Not now",
   "This doesn't look like an RSS address, search by keyword?": "This doesn't look like an RSS address, search by keyword?",
   "This looks like the RSS address, switch to the RSS add page?": "This looks like the RSS address, switch to the RSS add page?",
@@ -295,5 +295,9 @@
   "Learn More": "もっと読む",
   "Add favorite success": "Add favorite success",
   "Add favorite failed": "Add favorite failed",
-  "How to setup Sync Service": "How to setup Sync Service"
+  "How to setup Sync Service": "How to setup Sync Service",
+  "Go Pro": "PROに移行",
+  "Restore Purchase": "購入を復元",
+  "IAP-Subscribe": "購読する",
+  "Thanks for your support": "ご協力ありがとうございました!"
 }

@@ -213,7 +213,7 @@
   "External storage permission is necessary to save images to your device": "External storage permission is necessary to save images to your device",
   "External storage permission Setting Tips": "Open Settings > Permissions and allow access to Storage",
   "Need help": "Need help ?",
-  "Continue": "Continue",
+  "Continue": "Continuer",
   "Not now": "Not now",
   "This doesn't look like an RSS address, search by keyword?": "This doesn't look like an RSS address, search by keyword?",
   "This looks like the RSS address, switch to the RSS add page?": "This looks like the RSS address, switch to the RSS add page?",
@@ -295,5 +295,9 @@
   "Learn More": "Learn More",
   "Add favorite success": "Add favorite success",
   "Add favorite failed": "Add favorite failed",
-  "How to setup Sync Service": "How to setup Sync Service"
+  "How to setup Sync Service": "How to setup Sync Service",
+  "Go Pro": "Go Pro",
+  "Restore Purchase": "Restaurer l'achat",
+  "IAP-Subscribe": "IAP-Subscribe",
+  "Thanks for your support": "Thanks for your support!"
 }
