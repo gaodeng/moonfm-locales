@@ -65,6 +65,7 @@
   "Dark Icon": "深色",
   "Light Icon": "浅色",
   "Classic Icon": "经典",
+  "Spiral Icon": "2022",
   "Default Icon": "默认",
   "Detail": "详情",
   "Subscribe": "订阅",
@@ -301,5 +302,9 @@
   "IAP-Subscribe": "IAP-Subscribe",
   "Thanks for your support": "感谢你的支持!",
   "Any Questions? Contact Us!": "有所疑问？ 请联系我们",
-  "In-App Purchases are not supported on this device": "你的设备不支持应用内购买。"
+  "In-App Purchases are not supported on this device": "你的设备不支持应用内购买。",
+  "Stream URL": "Stream URL",
+  "Live Radio Name": "Live Radio Name",
+  "Add Live Radio": "Add Live Radio",
+  "Logo URL": "Logo URL"
 }

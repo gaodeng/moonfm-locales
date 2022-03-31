@@ -1,10 +1,10 @@
 import _ from "lodash";
 import fs from "fs";
 import path from "path";
-import en from "../locales/en.json";
+import en from "../locales/en.json" assert {type: "json"};
 
 async function gen(locale) {
-    let { default: localeData } = await import(`../locales/${locale}.json`);
+    let { default: localeData } = await import(`../locales/${locale}.json`, { assert: { type: 'json' } });
     let data = _.merge({}, en, localeData);
     fs.writeFileSync(path.resolve(`locales/${locale}.json`), JSON.stringify(data, null, 2));
     console.log(Object.keys(data).length, Object.keys(en).length);

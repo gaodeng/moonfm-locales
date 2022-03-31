@@ -65,6 +65,7 @@
   "Dark Icon": "Dark",
   "Light Icon": "Light",
   "Classic Icon": "Classic",
+  "Spiral Icon": "2022",
   "Default Icon": "Default",
   "Detail": "Detail",
   "Subscribe": "購読",
@@ -301,5 +302,9 @@
   "IAP-Subscribe": "購読する",
   "Thanks for your support": "ご協力ありがとうございました!",
   "Any Questions? Contact Us!": "ご不明な点がございますか？ 当社までお問い合わせください",
-  "In-App Purchases are not supported on this device": "アプリ内課金はあなたのデバイスでサポートされていません。"
+  "In-App Purchases are not supported on this device": "アプリ内課金はあなたのデバイスでサポートされていません。",
+  "Stream URL": "Stream URL",
+  "Live Radio Name": "Live Radio Name",
+  "Add Live Radio": "Add Live Radio",
+  "Logo URL": "Logo URL"
 }

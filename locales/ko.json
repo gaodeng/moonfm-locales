@@ -65,6 +65,7 @@
   "Dark Icon": "다크",
   "Light Icon": "라이트",
   "Classic Icon": "클래식",
+  "Spiral Icon": "2022",
   "Default Icon": "기본",
   "Detail": "세부사항",
   "Subscribe": "구독",
@@ -301,5 +302,9 @@
   "IAP-Subscribe": "IAP-Subscribe",
   "Thanks for your support": "사용자의 지원에 감사드립니다!",
   "Any Questions? Contact Us!": "질문이 있으십니까? 저희에게 연락해 주십시오",
-  "In-App Purchases are not supported on this device": "응용 프로그램 내 구입은 장치에서 지원하지 않습니다."
+  "In-App Purchases are not supported on this device": "응용 프로그램 내 구입은 장치에서 지원하지 않습니다.",
+  "Stream URL": "Stream URL",
+  "Live Radio Name": "Live Radio Name",
+  "Add Live Radio": "Add Live Radio",
+  "Logo URL": "Logo URL"
 }

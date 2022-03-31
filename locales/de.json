@@ -65,6 +65,7 @@
   "Dark Icon": "Dark",
   "Light Icon": "Light",
   "Classic Icon": "Classic",
+  "Spiral Icon": "2022",
   "Default Icon": "Standard",
   "Detail": "Detail",
   "Subscribe": "Abonnieren",
@@ -301,5 +302,9 @@
   "IAP-Subscribe": "IAP-Subscribe",
   "Thanks for your support": "Vielen Dank für Ihre Unterstützung!",
   "Any Questions? Contact Us!": "Noch Fragen? Bitte kontaktieren Sie uns.",
-  "In-App Purchases are not supported on this device": "In-App-Käufe werden auf deinem Gerät nicht unterstützt."
+  "In-App Purchases are not supported on this device": "In-App-Käufe werden auf deinem Gerät nicht unterstützt.",
+  "Stream URL": "Stream URL",
+  "Live Radio Name": "Live Radio Name",
+  "Add Live Radio": "Add Live Radio",
+  "Logo URL": "Logo URL"
 }
