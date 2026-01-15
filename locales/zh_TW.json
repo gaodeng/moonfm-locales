@@ -313,5 +313,6 @@
   "Player Setting": "播放器設定",
   "Classic": "經典",
   "Basic": "基本",
-  "Keep tab visible to access settings": "保持 '{{tab1}}' 或 '{{tab2}}' 可見以訪問設定"
+  "Keep tab visible to access settings": "保持 '{{tab1}}' 或 '{{tab2}}' 可見以訪問設定",
+  "Maximum 5 tabs allowed": "最多允許5個標籤頁"
 }

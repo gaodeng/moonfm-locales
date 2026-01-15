@@ -313,5 +313,6 @@
   "Player Setting": "播放器设置",
   "Classic": "经典",
   "Basic": "基本",
-  "Keep tab visible to access settings": "保持 '{{tab1}}' 或 '{{tab2}}' 可见以访问设置"
+  "Keep tab visible to access settings": "保持 '{{tab1}}' 或 '{{tab2}}' 可见以访问设置",
+  "Maximum 5 tabs allowed": "最多允许5个标签页"
 }

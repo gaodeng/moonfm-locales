@@ -313,5 +313,6 @@
   "Player Setting": "Tetapan Pemain",
   "Classic": "Klasik",
   "Basic": "Asas",
-  "Keep tab visible to access settings": "Pastikan '{{tab1}}' atau '{{tab2}}' kelihatan untuk mengakses tetapan"
+  "Keep tab visible to access settings": "Pastikan '{{tab1}}' atau '{{tab2}}' kelihatan untuk mengakses tetapan",
+  "Maximum 5 tabs allowed": "Maksimum 5 tab dibenarkan"
 }

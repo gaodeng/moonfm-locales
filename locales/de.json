@@ -313,5 +313,6 @@
   "Player Setting": "Player-Einstellungen",
   "Classic": "Klassisch",
   "Basic": "Einfach",
-  "Keep tab visible to access settings": "Halten Sie '{{tab1}}' oder '{{tab2}}' sichtbar, um auf die Einstellungen zuzugreifen"
+  "Keep tab visible to access settings": "Halten Sie '{{tab1}}' oder '{{tab2}}' sichtbar, um auf die Einstellungen zuzugreifen",
+  "Maximum 5 tabs allowed": "Maximal 5 Tabs erlaubt"
 }

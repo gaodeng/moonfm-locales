@@ -313,5 +313,6 @@
   "Player Setting": "Pengaturan Pemutar",
   "Classic": "Klasik",
   "Basic": "Dasar",
-  "Keep tab visible to access settings": "Pertahankan '{{tab1}}' atau '{{tab2}}' terlihat untuk mengakses pengaturan"
+  "Keep tab visible to access settings": "Pertahankan '{{tab1}}' atau '{{tab2}}' terlihat untuk mengakses pengaturan",
+  "Maximum 5 tabs allowed": "Maksimal 5 tab diperbolehkan"
 }

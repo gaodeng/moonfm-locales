@@ -313,5 +313,6 @@
   "Player Setting": "プレイヤー設定",
   "Classic": "クラシック",
   "Basic": "ベーシック",
-  "Keep tab visible to access settings": "設定にアクセスするには '{{tab1}}' または '{{tab2}}' を表示したままにしてください"
+  "Keep tab visible to access settings": "設定にアクセスするには '{{tab1}}' または '{{tab2}}' を表示したままにしてください",
+  "Maximum 5 tabs allowed": "最大5つのタブが許可されています"
 }
