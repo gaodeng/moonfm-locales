@@ -314,5 +314,6 @@
   "Classic": "Klasik",
   "Basic": "Dasar",
   "Keep tab visible to access settings": "Pertahankan '{{tab1}}' atau '{{tab2}}' terlihat untuk mengakses pengaturan",
-  "Maximum 5 tabs allowed": "Maksimal 5 tab diperbolehkan"
+  "Maximum 5 tabs allowed": "Maksimal 5 tab diperbolehkan",
+  "Use Native Bottom TabBar": "Gunakan Bilah Tab Bawah Asli"
 }

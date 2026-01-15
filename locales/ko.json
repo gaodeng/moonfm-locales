@@ -314,5 +314,6 @@
   "Classic": "클래식",
   "Basic": "기본",
   "Keep tab visible to access settings": "설정에 액세스하려면 '{{tab1}}' 또는 '{{tab2}}'를 표시 상태로 유지하세요",
-  "Maximum 5 tabs allowed": "최대 5개의 탭만 허용됩니다"
+  "Maximum 5 tabs allowed": "최대 5개의 탭만 허용됩니다",
+  "Use Native Bottom TabBar": "네이티브 하단 탭바 사용"
 }

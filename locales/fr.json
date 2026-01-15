@@ -314,5 +314,6 @@
   "Classic": "Classique",
   "Basic": "Basique",
   "Keep tab visible to access settings": "Gardez '{{tab1}}' ou '{{tab2}}' visible pour accéder aux paramètres",
-  "Maximum 5 tabs allowed": "Maximum 5 onglets autorisés"
+  "Maximum 5 tabs allowed": "Maximum 5 onglets autorisés",
+  "Use Native Bottom TabBar": "Utiliser la barre d'onglets native du bas"
 }

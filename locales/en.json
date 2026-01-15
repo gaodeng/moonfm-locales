@@ -314,5 +314,6 @@
   "Classic": "Classic",
   "Basic": "Basic",
   "Keep tab visible to access settings": "Keep '{{tab1}}' or '{{tab2}}' visible to access settings",
-  "Maximum 5 tabs allowed": "Maximum 5 tabs allowed"
+  "Maximum 5 tabs allowed": "Maximum 5 tabs allowed",
+  "Use Native Bottom TabBar": "Use Native Bottom TabBar"
 }
