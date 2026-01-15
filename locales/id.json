@@ -312,5 +312,6 @@
   "Player screen layout": "Tata letak layar pemutar",
   "Player Setting": "Pengaturan Pemutar",
   "Classic": "Klasik",
-  "Basic": "Dasar"
+  "Basic": "Dasar",
+  "Keep tab visible to access settings": "Pertahankan '{{tab1}}' atau '{{tab2}}' terlihat untuk mengakses pengaturan"
 }

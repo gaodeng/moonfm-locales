@@ -312,5 +312,6 @@
   "Player screen layout": "播放器屏幕布局",
   "Player Setting": "播放器设置",
   "Classic": "经典",
-  "Basic": "基本"
+  "Basic": "基本",
+  "Keep tab visible to access settings": "保持 '{{tab1}}' 或 '{{tab2}}' 可见以访问设置"
 }

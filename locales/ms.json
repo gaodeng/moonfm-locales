@@ -312,5 +312,6 @@
   "Player screen layout": "Tataletak skrin pemain",
   "Player Setting": "Tetapan Pemain",
   "Classic": "Klasik",
-  "Basic": "Asas"
+  "Basic": "Asas",
+  "Keep tab visible to access settings": "Pastikan '{{tab1}}' atau '{{tab2}}' kelihatan untuk mengakses tetapan"
 }

@@ -312,5 +312,6 @@
   "Player screen layout": "Player screen layout",
   "Player Setting": "Player Setting",
   "Classic": "Classic",
-  "Basic": "Basic"
+  "Basic": "Basic",
+  "Keep tab visible to access settings": "Keep '{{tab1}}' or '{{tab2}}' visible to access settings"
 }

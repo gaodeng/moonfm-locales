@@ -312,5 +312,6 @@
   "Player screen layout": "Disposition de l'écran du lecteur",
   "Player Setting": "Paramètres du lecteur",
   "Classic": "Classique",
-  "Basic": "Basique"
+  "Basic": "Basique",
+  "Keep tab visible to access settings": "Gardez '{{tab1}}' ou '{{tab2}}' visible pour accéder aux paramètres"
 }
